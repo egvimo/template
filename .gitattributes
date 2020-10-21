@@ -1,12 +1,8 @@
 *                     text=auto
 
-*.gitattributes       text
-.gitignore            text
-
-.gitattributes        export-ignore
-.gitignore            export-ignore
-
-*.gitattributes       linguist-language=gitattributes
+.gitattributes        text export-ignore linguist-language=gitattributes
+.gitignore            text export-ignore
+.editorconfig         text
 
 *.md                  text
 *.yml                 text
