@@ -4,6 +4,6 @@ Template repository.
 
 ## License
 
-Copyright © 2024 egvimo.
+Copyright © 2025 egvimo.
 
-Licensed under the MIT License. See [LICENSE](LICENSE).
+Licensed under the GNU Affero General Public License. See [LICENSE](LICENSE).
