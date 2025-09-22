@@ -6,4 +6,4 @@ Template repository.
 
 Copyright © 2025 egvimo.
 
-Licensed under the GNU Affero General Public License. See [LICENSE](LICENSE).
+Licensed under the MIT License. See [LICENSE](LICENSE.md).
